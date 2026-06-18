@@ -1,14 +1,13 @@
 /**
  * @file codes
- * @module fsm-util-symbol/codes
+ * @module mark-util-symbol/codes
  */
 
 /**
  * Character codes.
  *
- * fsm works based on character codes.
- * This module contains constants for the ASCII block and the replacement
- * character.
+ * `mark` works based on character codes.
+ * This module contains constants for the ASCII block and replacement character.
  *
  * A few codes are handled in a special way, such as line endings (CR, LF,
  * and CR+LF, commonly known as end-of-line: EOLs), as well as tab (horizontal

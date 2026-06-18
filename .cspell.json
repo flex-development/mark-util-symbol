@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
   "allowCompoundWords": true,
   "caseSensitive": false,
-  "dictionaries": ["@flex-development/fsm-util-symbol"],
+  "dictionaries": ["@flex-development/mark-util-symbol"],
   "dictionaryDefinitions": [
     {
-      "name": "@flex-development/fsm-util-symbol",
+      "name": "@flex-development/mark-util-symbol",
       "path": "./.dictionary.txt"
     }
   ],

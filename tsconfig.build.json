@@ -3,7 +3,7 @@
     "allowImportingTsExtensions": false,
     "allowJs": false,
     "checkJs": false,
-    "customConditions": ["fsm-util-symbol"],
+    "customConditions": ["mark-util-symbol"],
     "declarationMap": false,
     "noEmitOnError": true,
     "outDir": "dist",

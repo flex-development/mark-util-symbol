@@ -1,12 +1,12 @@
 /**
  * @file chars
- * @module fsm-util-symbol/chars
+ * @module mark-util-symbol/chars
  */
 
 /**
  * Character dictionary.
  *
- * Although `fsm` works based on character codes,
+ * Although `mark` works based on character codes,
  * this module includes string versions of those codes.
  *
  * @see https://symbl.cc/en/unicode/blocks/basic-latin

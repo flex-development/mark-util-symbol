@@ -1,6 +1,6 @@
 /**
  * @file constants
- * @module fsm-util-symbol/constants
+ * @module mark-util-symbol/constants
  */
 
 /**

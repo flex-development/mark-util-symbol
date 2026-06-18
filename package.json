@@ -1,28 +1,28 @@
 {
-  "name": "@flex-development/fsm-util-symbol",
-  "description": "fsm symbol utility",
+  "name": "@flex-development/mark-util-symbol",
+  "description": "mark symbol utility",
   "version": "0.0.0",
   "keywords": [
     "compile",
-    "compiler",
     "finite",
     "fsm",
     "lexer",
     "parse",
-    "state"
+    "state",
+    "tokenize"
   ],
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/flex-development/fsm-util-symbol",
-  "repository": "https://github.com/flex-development/fsm-util-symbol.git",
-  "bugs": "https://github.com/flex-development/fsm-util-symbol/issues",
+  "homepage": "https://github.com/flex-development/mark-util-symbol",
+  "repository": "https://github.com/flex-development/mark-util-symbol.git",
+  "bugs": "https://github.com/flex-development/mark-util-symbol/issues",
   "author": {
     "name": "Lexus Drumgold",
     "url": "https://github.com/unicornware"
   },
   "publishConfig": {
     "access": "public",
-    "diff-dst-prefix": "fsm-util-symbol",
-    "diff-src-prefix": "fsm-util-symbol",
+    "diff-dst-prefix": "mark-util-symbol",
+    "diff-src-prefix": "mark-util-symbol",
     "directory": "./",
     "executableFiles": [],
     "node-options": null,
@@ -40,7 +40,7 @@
   ],
   "exports": {
     ".": {
-      "fsm-util-symbol": "./src/index.mts",
+      "mark-util-symbol": "./src/index.mts",
       "default": "./dist/index.mjs"
     },
     "./package.json": "./package.json"
@@ -100,7 +100,6 @@
     "@flex-development/commitlint-config": "1.0.1",
     "@flex-development/eslint-config": "1.1.1",
     "@flex-development/export-regex": "2.0.0",
-    "@flex-development/fsm": "flex-development/fsm#commit=c584c3df25af0e60465738860635bc565a44c320",
     "@flex-development/grease": "3.0.0-alpha.9",
     "@flex-development/import-regex": "3.0.0",
     "@flex-development/pathe": "4.0.2",

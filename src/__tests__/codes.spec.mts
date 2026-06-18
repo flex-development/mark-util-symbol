@@ -1,6 +1,6 @@
 /**
  * @file Unit Tests - codes
- * @module fsm-util-symbol/tests/unit/codes
+ * @module mark-util-symbol/tests/unit/codes
  */
 
 import testSubject from '../codes.mts'

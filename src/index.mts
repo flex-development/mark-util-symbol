@@ -1,6 +1,6 @@
 /**
  * @file Package Entry Point
- * @module fsm-util-symbol
+ * @module mark-util-symbol
  */
 
 export { default as chars } from './chars.mts'

@@ -1,6 +1,6 @@
 /**
  * @file ev
- * @module fsm-util-symbol/ev
+ * @module mark-util-symbol/ev
  */
 
 /**

@@ -1,6 +1,6 @@
 /**
  * @file Unit Tests - chars
- * @module fsm-util-symbol/tests/unit/chars
+ * @module mark-util-symbol/tests/unit/chars
  */
 
 import testSubject from '../chars.mts'

@@ -1,6 +1,6 @@
 /**
  * @file Unit Tests - ev
- * @module fsm-util-symbol/tests/unit/ev
+ * @module mark-util-symbol/tests/unit/ev
  */
 
 import testSubject from '../ev.mts'

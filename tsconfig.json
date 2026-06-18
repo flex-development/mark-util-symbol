@@ -3,7 +3,7 @@
     "allowImportingTsExtensions": true,
     "allowJs": true,
     "alwaysStrict": true,
-    "customConditions": ["fsm-util-symbol", "development"],
+    "customConditions": ["mark-util-symbol", "development"],
     "declaration": true,
     "declarationMap": true,
     "lib": ["es2024", "dom"],

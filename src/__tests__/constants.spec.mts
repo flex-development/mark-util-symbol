@@ -1,6 +1,6 @@
 /**
  * @file Unit Tests - constants
- * @module fsm-util-symbol/tests/unit/constants
+ * @module mark-util-symbol/tests/unit/constants
  */
 
 import testSubject from '../constants.mts'
