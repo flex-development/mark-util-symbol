@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/flex-development/mark-util-symbol/compare/1.0.0...1.0.1) (2026-06-18)
+
+### :bug: Fixes
+
+- [[`54eb69a`](https://github.com/flex-development/mark-util-symbol/commit/54eb69af91a2ee6735da2b99991d5137c17f2f6b)] [`ev`] use `as const`
+
 ## 1.0.0 (2026-06-18)
 
 ### :package: Build
@@ -23,5 +29,6 @@
 ### :mechanical_arm: Refactors
 
 - [[`4e6bfa1`](https://github.com/flex-development/mark-util-symbol/commit/4e6bfa1eba5ca91f7e41fbe351ea84b40962cf39)] project rename
+
 
 
