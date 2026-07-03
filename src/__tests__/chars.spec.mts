@@ -3,10 +3,15 @@
  * @module mark-util-symbol/tests/unit/chars
  */
 
+import * as micromark from 'micromark-util-symbol'
 import testSubject from '../chars.mts'
 
 describe('unit:chars', () => {
   it('should be character dictionary', () => {
     expect(testSubject).toMatchSnapshot()
+  })
+
+  it('should be superset of micromark.values', () => {
+    expect(testSubject).toMatchObject(micromark.values)
   })
 })
