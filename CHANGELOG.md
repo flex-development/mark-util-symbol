@@ -1,3 +1,17 @@
+## [3.1.0](https://github.com/flex-development/mark-util-symbol/compare/3.0.0...3.1.0) (2026-07-03)
+
+### :package: Build
+
+- [[`2f46050`](https://github.com/flex-development/mark-util-symbol/commit/2f46050f81791b41d86e41834a6a44eb0520f056)] **deps-dev:** Bump tsx from 4.22.4 to 4.22.5 ([#22](https://github.com/flex-development/mark-util-symbol/issues/22))
+
+### :sparkles: Features
+
+- [[`76af93f`](https://github.com/flex-development/mark-util-symbol/commit/76af93ff86239f7fba10847e66ffc17325e4d49b)] [`chars`] micromark superset
+
+### :house_with_garden: Housekeeping
+
+- [[`a9f5b11`](https://github.com/flex-development/mark-util-symbol/commit/a9f5b11c42885c2ef6b1e7c172482b6fced434c1)] **pkg:** `funding`
+
 ## [3.0.0](https://github.com/flex-development/mark-util-symbol/compare/2.0.0...3.0.0) (2026-07-01)
 
 ### ⚠ BREAKING CHANGES
@@ -79,6 +93,7 @@
 ### :mechanical_arm: Refactors
 
 - [[`4e6bfa1`](https://github.com/flex-development/mark-util-symbol/commit/4e6bfa1eba5ca91f7e41fbe351ea84b40962cf39)] project rename
+
 
 
 
