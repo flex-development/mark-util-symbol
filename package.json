@@ -15,6 +15,12 @@
   "homepage": "https://github.com/flex-development/mark-util-symbol",
   "repository": "https://github.com/flex-development/mark-util-symbol.git",
   "bugs": "https://github.com/flex-development/mark-util-symbol/issues",
+  "funding": [
+    {
+      "type": "GitHub Sponsors",
+      "url": "https://github.com/sponsors/flex-development"
+    }
+  ],
   "author": {
     "name": "Lexus Drumgold",
     "url": "https://github.com/unicornware"
